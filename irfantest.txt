@@ -1,3 +1,2 @@
 This is just test
 Another line added
-Third commit
